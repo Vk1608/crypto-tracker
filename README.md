@@ -10,9 +10,12 @@
 1. Open terminal in current directory
 2. cd crypto-tracker-backend
 3. npm install
+4. npm run build
+5. npm start
 
 ## To run frontend
 1. Open terminal in current directory
 2. cd crypto-tracker-frontend
 3. npm install
-4. 
+4. npm run build
+5. npm start
